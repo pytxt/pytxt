@@ -1,7 +1,7 @@
 ### Hi there 👋
 
  - 🔭 I’m currently learning Front End Web development.
- - 🌱 I’m learning more about the basics!
+ - 🌱 I’m learning more about the basics on theodinproject.com !
  - 🤝 I would love to contribute to your projects!
  - ⚡️ Let's create something!
 <div align= "center">
